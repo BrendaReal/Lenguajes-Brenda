@@ -17,6 +17,7 @@ public class LenguajesBrenda {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mi Primer Programita de Lenguaje");
+        System.out.println("Esta es otra linea");
     }
     
 }
